@@ -1,0 +1,45 @@
+body {
+  background-color: lightpurple;
+}
+
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+
+
+
+div{
+font-family:Fantasy;
+background-color:plum;
+color:black;
+text-decoration:line;
+}
+
+
+.class1{
+color:blue;
+}
+
+
+.class4{
+color:purple;
+}
+
+.span1{
+color:red;
+}
+
+.span2{
+color:brown;
+}
+
+.span4{
+color:pink;
+}
+
+.span5{
+color:gray;
+}
